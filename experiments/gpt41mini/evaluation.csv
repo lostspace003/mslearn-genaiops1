@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,comments
+day-hike-gear,"Compact checklist covering clothing, hydration, navigation, first aid, weather protection, and safety considerations for summer day hikes.",4,4,4,3,Good coverage but less detailed than GPT-4
+overnight-camping,"Comprehensive first overnight camping guide covering trip planning, essential gear, camp setup, safety protocols, packing strategy, and beginner preparation.",4,4,4,3,Solid advice, slightly less nuanced
+three-day-backpacking,"October mountain backpacking safety guidance covering weather, hypothermia prevention, navigation, emergency planning, terrain hazards, and backup options.",4,4,4,4,Good safety guidance, concise
+winter-hiking,"Winter hiking guidance covering layered clothing, traction, cold-weather safety gear, route planning, hypothermia prevention, and emergency preparedness.",4,4,4,3,Clear comparison, adequate detail
+trail-difficulty,"Step-by-step framework for beginners to assess trail suitability using fitness, trail ratings, conditions, pacing, safety, and gradual progression.",4,4,4,4,Practical framework provided
