@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"Practical checklist covering clothing, hydration, navigation, first aid, weather protection, and pre-hike safety steps for a summer day hike in moderate terrain.",5,5,4,Maintains quality with reduced verbosity
+overnight-camping,"Practical checklist for a first overnight camping trip covering trip planning, shelter, cooking, clothing, safety, packing, camp setup, Leave No Trace, and backup planning.",4,5,5,More direct while preserving safety focus
+three-day-backpacking,"Critical October mountain backpacking safety guidance covering weather, hypothermia prevention, navigation, campsite safety, wildlife, emergency planning, and essential gear.",5,5,5,Excellent concise safety guidance
+winter-hiking,"Winter hiking guidance covering layered clothing, traction devices, navigation, emergency gear, avalanche awareness, cold-weather safety, and trip planning compared to summer hiking.",5,4,4,Clear comparison without excess detail
+trail-difficulty,"Step-by-step framework for beginners to assess trail suitability using fitness, distance, elevation, trail conditions, pacing, safety essentials, and gradual progression.",5,5,5,Helpful and actionable guidance
